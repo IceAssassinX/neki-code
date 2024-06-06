@@ -1,0 +1,15 @@
+private void PuniCheckListBox()
+{
+int i;
+Kon.Open();
+SqlCommand cmd = new SqlCommand(&quot;PuniCheckListBox&quot;, Kon);
+cmd.CommandType = CommandType.StoredProcedure;
+SqlDataAdapter sda = new SqlDataAdapter(cmd);
+DataTable dt = new DataTable();
+sda.Fill(dt);
+for (i = 0; i &lt; dt.Rows.Count; i++)
+{
+checkedListBox1.Items.Add(dt.Rows[i][&quot;Kategorija&quot;].ToString());
+}
+Kon.Close();
+}

@@ -1,0 +1,14 @@
+private void listBox1_Click(object sender, EventArgs e)
+{
+string Par_Proizvod = listBox1.Text.ToString();
+string[] PProizvod = Par_Proizvod.Split(&#39;-&#39;);
+txtSifraProizvodaLB.Text = PProizvod[0].ToString().Trim();
+txtNazivProizvodaLB.Text = PProizvod[1].ToString().Trim();
+cmbJMLB.Text = PProizvod[2].ToString().Trim();
+cmbKategorijaLB.Text = PProizvod[3].ToString().Trim();
+txtCenaLB.Text = PProizvod[4].ToString().Trim();
+txtKolicinaLB.Text = PProizvod[5].ToString().Trim();
+txtVrednostLB.Text = PProizvod[6].ToString().Trim();
+dtpDatumPrijemaLB.Value = Convert.ToDateTime(PProizvod[7].ToString().Trim());
+maskedRokTrajanjaLB.Text = PProizvod[9].ToString().Trim();
+}

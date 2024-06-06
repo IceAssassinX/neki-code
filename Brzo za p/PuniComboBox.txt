@@ -1,0 +1,12 @@
+private void PuniComboBox()
+{
+Kon.Open();
+SqlCommand cmd = new SqlCommand(&quot;PuniComboBox&quot;, Kon);
+cmd.CommandType = CommandType.StoredProcedure;
+cmd.ExecuteNonQuery();
+DataTable dt = new DataTable();
+dt.Load(cmd.ExecuteReader());
+ComboBox1.DataSource = dt;
+ComboBox1.DisplayMember = &quot;Nesto&quot;;
+Kon.Close();
+}

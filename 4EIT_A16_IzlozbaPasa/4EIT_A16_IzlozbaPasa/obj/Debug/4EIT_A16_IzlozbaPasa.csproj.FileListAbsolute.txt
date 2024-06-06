@@ -1,0 +1,22 @@
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\bin\Debug\4EIT_A16_IzlozbaPasa.exe.config
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\bin\Debug\4EIT_A16_IzlozbaPasa.exe
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\bin\Debug\4EIT_A16_IzlozbaPasa.pdb
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\_4EIT_A16_IzlozbaPasa.Form1.resources
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\_4EIT_A16_IzlozbaPasa.Properties.Resources.resources
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.exe
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A16_IzlozbaPasa\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.pdb
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\bin\Debug\4EIT_A16_IzlozbaPasa.exe.config
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\bin\Debug\4EIT_A16_IzlozbaPasa.exe
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\bin\Debug\4EIT_A16_IzlozbaPasa.pdb
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.AssemblyReference.cache
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\_4EIT_A16_IzlozbaPasa.Form1.resources
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\_4EIT_A16_IzlozbaPasa.Properties.Resources.resources
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.GenerateResource.cache
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.csproj.CoreCompileInputs.cache
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.exe
+C:\Users\skola\source\repos\4EIT_A16_IzlozbaPasa\obj\Debug\4EIT_A16_IzlozbaPasa.pdb

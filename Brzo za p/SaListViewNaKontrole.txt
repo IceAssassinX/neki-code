@@ -1,0 +1,15 @@
+private void SaListViewNaKontrole()
+{
+foreach (ListViewItem item in listView1.SelectedItems)
+{
+id = Convert.ToInt32(item.SubItems[0].Text);
+txtSifraP.Text = id.ToString();
+txtNazivP.Text = item.SubItems[1].Text;
+cmbJM.Text = item.SubItems[2].Text;
+cmbKategorija.Text = item.SubItems[3].Text;
+txtCena.Text =item.SubItems[4].Text;
+txtKolicina.Text = item.SubItems[5].Text;
+txtVrednost.Text = item.SubItems[6].Text;
+dtpDatumPrijema.Value = Convert.ToDateTime(item.SubItems[7].Text);
+}
+}

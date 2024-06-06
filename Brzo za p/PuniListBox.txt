@@ -1,0 +1,12 @@
+private void PuniListBox()
+{
+Kon.Open();
+SqlCommand cmd = new SqlCommand(&quot;PuniListBox&quot;, Kon);
+cmd.CommandType = CommandType.StoredProcedure;
+cmd.ExecuteNonQuery();
+DataTable dt = new DataTable();
+dt.Load(cmd.ExecuteReader());
+listBox1.DataSource = dt;
+listBox1.DisplayMember = &quot;Nesto&quot;;
+Kon.Close();
+}

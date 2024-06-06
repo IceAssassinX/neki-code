@@ -1,0 +1,11 @@
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\bin\Debug\4EIT_A6_PolovniAutomobili.exe.config
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\bin\Debug\4EIT_A6_PolovniAutomobili.exe
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\bin\Debug\4EIT_A6_PolovniAutomobili.pdb
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\4EIT_A6_PolovniAutomobili.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\4EIT_A6_PolovniAutomobili.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\_4EIT_A6_PolovniAutomobili.Form1.resources
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\_4EIT_A6_PolovniAutomobili.Properties.Resources.resources
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\4EIT_A6_PolovniAutomobili.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\4EIT_A6_PolovniAutomobili.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\4EIT_A6_PolovniAutomobili.exe
+C:\Users\denis\OneDrive\Desktop\Skola\Priprema za maturski\Baze\4EIT_A6_PolovniAutomobili\4EIT_A6_PolovniAutomobili\obj\Debug\4EIT_A6_PolovniAutomobili.pdb

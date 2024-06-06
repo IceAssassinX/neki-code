@@ -1,0 +1,18 @@
+private void PuniGridChart2()
+{
+Kon.Open();
+SqlCommand cmd = new SqlCommand(&quot;PuniGridChart2&quot;, Kon);
+cmd.CommandType = CommandType.StoredProcedure;
+cmd.Parameters.AddWithValue(&quot;@Kategorija&quot;, SqlDbType.VarChar).Value = comboKategorijaChart.Text.ToString();
+cmd.Parameters.AddWithValue(&quot;@VrednostOD&quot;, SqlDbType.VarChar).Value = numericVrednostOD.Value.ToString();
+cmd.Parameters.AddWithValue(&quot;@VrednostDO&quot;, SqlDbType.VarChar).Value = numericVrednostDO.Value.ToString();
+cmd.ExecuteNonQuery();
+DataTable dt = new DataTable();
+dt.Load(cmd.ExecuteReader());
+chart1.DataSource = dt;
+dataGridView1.DataSource = dt;
+chart1.Series[&quot;Series1&quot;].XValueMember = &quot;NazivProizvoda&quot;;
+chart1.Series[&quot;Series1&quot;].YValueMembers = &quot;Vrednost&quot;;
+chart1.Titles.Add(comboKategorijaChart.Text);
+Kon.Close();
+}

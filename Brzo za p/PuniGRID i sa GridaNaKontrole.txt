@@ -1,0 +1,23 @@
+private void PuniGrid()
+{
+Kon.Open();
+SqlCommand cmd = new SqlCommand(&quot;PuniDataGrid&quot;, Kon);
+cmd.CommandType = CommandType.StoredProcedure;
+cmd.ExecuteNonQuery();
+DataTable dt = new DataTable();
+dt.Load(cmd.ExecuteReader());
+dataGridView1.DataSource = dt;
+Kon.Close();
+}
+private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+{
+txtSifraP.Text = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
+txtNazivP.Text = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
+cmbJM.Text = dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString();
+cmbKategorija.Text = dataGridView1.Rows[e.RowIndex].Cells[3].Value.ToString();
+txtCena.Text = dataGridView1.Rows[e.RowIndex].Cells[4].Value.ToString();
+txtKolicina.Text = dataGridView1.Rows[e.RowIndex].Cells[5].Value.ToString();
+txtVrednost.Text = dataGridView1.Rows[e.RowIndex].Cells[6].Value.ToString();
+dtpDatumPrijema.Text = dataGridView1.Rows[e.RowIndex].Cells[7].Value.ToString();
+maskedRokTrajanja.Text = dataGridView1.Rows[e.RowIndex].Cells[9].Value.ToString();
+}

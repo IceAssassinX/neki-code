@@ -1,0 +1,16 @@
+private void PuniListView()
+{
+listView1.Items.Clear();
+Kon.Open();
+SqlCommand cmd = new SqlCommand(&quot;PuniListView&quot;, Kon);
+cmd.CommandType = CommandType.StoredProcedure;
+dr = cmd.ExecuteReader();
+while (dr.Read())
+{
+ListViewItem red = new ListViewItem(dr[0].ToString());
+for (int i = 1; i &lt; 10; i++) /* i IDE DO KOLIKO POLJA VRACA PROCEDURA*/
+red.SubItems.Add(dr[i].ToString());
+listView1.Items.Add(red);
+}
+Kon.Close();
+}
