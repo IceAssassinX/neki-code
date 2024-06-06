@@ -1,0 +1,11 @@
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\bin\Debug\bibliotekaAndjela.exe.config
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\bin\Debug\bibliotekaAndjela.exe
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\bin\Debug\bibliotekaAndjela.pdb
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.csproj.AssemblyReference.cache
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.csproj.SuggestedBindingRedirects.cache
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.Form1.resources
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.Properties.Resources.resources
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.csproj.GenerateResource.cache
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.csproj.CoreCompileInputs.cache
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.exe
+C:\Users\skola\OneDrive\Desktop\Sava Mihajlov 2\bibliotekaAndjela\bibliotekaAndjela\obj\Debug\bibliotekaAndjela.pdb

@@ -1,0 +1,11 @@
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\bin\Debug\A17EvidencijaVozila.exe.config
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\bin\Debug\A17EvidencijaVozila.exe
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\bin\Debug\A17EvidencijaVozila.pdb
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.csproj.AssemblyReference.cache
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.csproj.SuggestedBindingRedirects.cache
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.Form1.resources
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.Properties.Resources.resources
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.csproj.GenerateResource.cache
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.csproj.CoreCompileInputs.cache
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.exe
+C:\Users\skola\Videos\AA-Programiranje4\A17EvidencijaVozila\A17EvidencijaVozila\A17EvidencijaVozila\obj\Debug\A17EvidencijaVozila.pdb
