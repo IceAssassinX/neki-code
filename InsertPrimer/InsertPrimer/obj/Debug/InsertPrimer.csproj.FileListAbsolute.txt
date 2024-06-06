@@ -1,0 +1,10 @@
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\bin\Debug\InsertPrimer.exe.config
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\bin\Debug\InsertPrimer.exe
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\bin\Debug\InsertPrimer.pdb
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.csproj.AssemblyReference.cache
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.Form1.resources
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.Properties.Resources.resources
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.csproj.GenerateResource.cache
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.csproj.CoreCompileInputs.cache
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.exe
+C:\Users\GymkoPC5\source\repos\InsertPrimer\InsertPrimer\obj\Debug\InsertPrimer.pdb
